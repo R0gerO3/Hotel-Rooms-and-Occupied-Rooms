@@ -1,6 +1,4 @@
 //Rodrigo Espinoza
-//Lab 7, #1
-//CS/IS 112
 
 //import scanner
 //ask user how many floors does their hotel have
@@ -21,7 +19,7 @@ percentage of rooms occupied*/
 
 import java.util.Scanner;
 
-public class Lab7_1
+public class Hotel_Rooms
 {
     public static void main(String[] args) 
     {
